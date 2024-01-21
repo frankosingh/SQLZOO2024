@@ -1,0 +1,2 @@
+# SQLZOO2024
+My solutions to SQLZOO2024
